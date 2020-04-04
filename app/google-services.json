@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "413273098292",
+    "firebase_url": "https://agrim-1d59e.firebaseio.com",
+    "project_id": "agrim-1d59e",
+    "storage_bucket": "agrim-1d59e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413273098292:android:e1b7c031afc1d84a132261",
+        "android_client_info": {
+          "package_name": "com.example.agrim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413273098292-2479vg23elnnf0qhdhd8v54i81ln5u3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agrim",
+            "certificate_hash": "c656abc61372b8b5c98a3dc780f1977644638198"
+          }
+        },
+        {
+          "client_id": "413273098292-juhinpmrnvpneerhp1ns2jf5ndvvdilv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVufGKCPDJLK_ieNGB_yjFpesp5BBhmCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413273098292-juhinpmrnvpneerhp1ns2jf5ndvvdilv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
